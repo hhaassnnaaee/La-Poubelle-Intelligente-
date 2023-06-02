@@ -3,3 +3,4 @@ La finalité d'aprés ce projet est d'appliquer une démarche agile, cette méth
 
 Ce travail a été presenté par les differents membres de notre équipe ; si joint les membres du groupe avec les rôles accordés à chacun: 
 ![WhatsApp Image 2023-05-31 at 17 48 43](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522479/f278ef47-6d03-43a3-8903-7690824581f4)
+![Uploading image.png…]()
