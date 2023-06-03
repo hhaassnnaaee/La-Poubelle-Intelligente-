@@ -6,8 +6,16 @@ Poubelle Intelligente
 
 
 Résumé:
-      Ce projet scientifique présente un modèle de développement durable, à savoir la conception d’un bac intelligent alimenté par l’énergie photovoltaïque, qui permet de mesurer le niveau de remplissage d’un bac et son emplacement à l’aide d’une application smartphone (Smart Trash).
-      Le but de ce projet est d’appliquer une approche agile. Cette méthode fournit une approche itérative et collaborative pour le développement de logiciels et la gestion de projet. L’agilité vise à répondre de manière flexible aux changements tout au long du processus de développement, en mettant l’accent sur la livraison continue de solutions fonctionnelles et de valeur aux utilisateurs.
+      Ce projet scientifique présente un modèle de développement durable, à savoir
+      la conception d’un bac intelligent alimenté par l’énergie photovoltaïque,
+      qui permet de mesurer le niveau de remplissage d’un bac et son emplacement
+      à l’aide d’une application smartphone (Smart Trash).
+      Le but de ce projet est d’appliquer une approche agile.
+      Cette méthode fournit une approche itérative et collaborative
+      pour le développement de logiciels et la gestion de projet.
+      L’agilité vise à répondre de manière flexible aux changements 
+      tout au long du processus de développement, en mettant l’accent
+      sur la livraison continue de solutions fonctionnelles et de valeur aux utilisateurs.
 
 
 
