@@ -215,6 +215,12 @@ Identification des acteurs :
 
 
 Réunion 1 :
+![Sprint 1 reunion 1](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/ac1bba2a-4680-4782-8a60-b4e706d78414)
+
+
+
+
+
 
  
 
