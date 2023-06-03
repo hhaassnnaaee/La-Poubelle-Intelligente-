@@ -243,7 +243,15 @@ Identification des acteurs :
  
  
  
- 
+ <img width="455" alt="sprint" src="https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522479/4e469347-6b2a-4b89-9ee8-8f07d7e05785">
+
+
+
+
+
+
+
+
  
  
 
