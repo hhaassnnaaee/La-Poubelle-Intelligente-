@@ -519,6 +519,7 @@ Réunion 4 :
 
 L'interface de l'application est simple à comprendre et facile à utiliser.
 
+
 ![interface 1](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/2ba30727-288d-4b44-9e13-bbb0926c4d4b)
 
 
@@ -533,15 +534,12 @@ L'interface de l'application est simple à comprendre et facile à utiliser.
 
 
 
-      Cette première interface représente la page d’authentification qui est constituée
- de deux cases pour remplir les données correspondantes aux emails et aux mots de passe. 
- Cette phase n’est validée que lorsque l’utilisateur est bien inscrit en cliquant
- sur le bouton « se connecter ».
+      Cette première interface représente la page d’authentification qui est constituée de deux cases pour remplir les données correspondantes aux emails et aux mots de passe. Cette phase n’est validée que lorsque l’utilisateur est bien inscrit en cliquant sur le bouton « se connecter ».
 
 
 
 
-
+![Capture d’écran 2023-06-03 151405](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/c26306de-d47b-4236-ac5b-811d2c954282)
 
 
 
