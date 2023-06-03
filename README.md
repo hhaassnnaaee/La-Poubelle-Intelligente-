@@ -323,6 +323,17 @@ Réunion 4 :
  
 3.2.3	Sprint 3 :
 
+
+![Sprint 3](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/ae70e289-f435-4a48-b9f4-e9c9be32f176)
+
+
+
+
+
+
+
+
+
  
 
 Réunion 1 :
