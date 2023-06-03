@@ -6,6 +6,8 @@ Poubelle Intelligente
 
 
 Résumé:
+
+
       Ce projet scientifique présente un modèle de développement durable, à savoir
       la conception d’un bac intelligent alimenté par l’énergie photovoltaïque,
       qui permet de mesurer le niveau de remplissage d’un bac et son emplacement
@@ -22,6 +24,8 @@ Résumé:
 
 
 Abstract:
+
+
 
      This scientific project presents a sustainable development model, namely the design of a smart bin powered by photovoltaic energy, which allows measuring the fill level of a bin and its location using a smartphone application (Smart Trash).
      The purpose of this project is to apply an agile approach. This method provides an iterative and collaborative approach for software development and project management. Agility aims to flexibly respond to changes throughout the development process, emphasizing the continuous delivery of functional solutions and value to users.
@@ -65,6 +69,7 @@ Spécification des fonctionnalités : (en utilisant un diagramme de cas d’util
 1.1	Diagramme de cas d’utilisation :
 
 Identification des acteurs :
+
     * Administrateur : L’administrateur c’est un acteur responsable de tous les privilèges d'accès, à travers de contrôler le système, modifier, configurer, consulté, maintenance, vérifier, et prendre des décisions qui liée au système et au travail qui autoriser les utilisateurs pour effectuer leurs tâches, ainsi que traiter et actualisé la mise à jour de la base de données, pour fait plusieurs tâches comme la gestion des profils, et suivi leur travail à travers les statistiques… 
     * Utilisateur : Le rôle de cet acteur dans ce projet est l’intervention immédiate dans le cas de recevoir un message contient des informations relatives à l'état de la poubelle à travers une application Smartphone.
     
@@ -279,6 +284,7 @@ Identification des acteurs :
 
 
 Réunion 1 :
+
 ![Sprint 1 reunion 1](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/ac1bba2a-4680-4782-8a60-b4e706d78414)
 
 
@@ -411,6 +417,7 @@ Réunion 1 :
 
 
 Réunion 2 :
+
 
  ![S3 R2](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/0b279480-3c68-4292-a1ba-3fd56fcd668c)
  
