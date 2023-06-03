@@ -411,6 +411,9 @@ Réunion 3 :
  
 
 3.2.5	Sprint 5 :
+
+
+
  
 
 ![Sprint 5](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/f6be7f70-dfc1-41dd-8939-b9c401ede695)
@@ -431,6 +434,10 @@ Réunion 1 :
 
 
 Réunion 2 :
+
+
+
+
  
 
 ![S5 R2](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/3ae27c09-5ee0-46ba-b213-41e7407fdabe)
@@ -439,6 +446,13 @@ Réunion 2 :
 
 
 Réunion 3 :
+
+
+
+
+
+
+
 ![S5 R3](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/139f34a2-28ce-43e3-9678-b45043523185)
  
  
@@ -450,6 +464,13 @@ Réunion 3 :
 
 
 Réunion 4 :
+
+
+
+
+
+
+
 
  ![S5 R4](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/a6571ec5-77b5-4268-be4f-ba667755a266)
  
