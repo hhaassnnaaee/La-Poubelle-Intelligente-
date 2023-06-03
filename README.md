@@ -48,16 +48,23 @@ Introduction Générale :
 
 
 1	Diagrammes UML :
-      Les diagrammes UML permettent de modéliser les différentes composantes du système de poubelles intelligentes. Cela permet de visualiser la structure et les interactions entre les différentes parties du système, ce qui facilite la compréhension globale du projet.
- 	Spécification des fonctionnalités : (en utilisant un diagramme de cas d’utilisation) 
- 	Conception de l'architecture : (en utilisant un diagramme de classe)
- 	Modélisation des flux de données : (en utilisant un diagramme de séquence)
+
+ Les diagrammes UML permettent de modéliser les différentes composantes du système de poubelles intelligentes. Cela permet de visualiser la        structure et les interactions entre les différentes parties du système, ce qui facilite la compréhension globale du projet.
+Spécification des fonctionnalités : (en utilisant un diagramme de cas d’utilisation) 
+ Conception de l'architecture : (en utilisant un diagramme de classe)
+ Modélisation des flux de données : (en utilisant un diagramme de séquence)
 
 1.1	Diagramme de cas d’utilisation :
+
 Identification des acteurs :
     * Administrateur : L’administrateur c’est un acteur responsable de tous les privilèges d'accès, à travers de contrôler le système, modifier, configurer, consulté, maintenance, vérifier, et prendre des décisions qui liée au système et au travail qui autoriser les utilisateurs pour effectuer leurs tâches, ainsi que traiter et actualisé la mise à jour de la base de données, pour fait plusieurs tâches comme la gestion des profils, et suivi leur travail à travers les statistiques… 
     * Utilisateur : Le rôle de cet acteur dans ce projet est l’intervention immédiate dans le cas de recevoir un message contient des informations relatives à l'état de la poubelle à travers une application Smartphone.
+    
+    
 1.1.1	.  Diagramme de cas d’utilisation général :
+
+
+
 
 
 ![Capture d’écran 2023-06-03 122055](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/3f1db2ec-b4c7-4add-a002-64c08b407873)
@@ -74,9 +81,20 @@ Identification des acteurs :
 
 1.1.2	Diagramme de cas d’utilisation pour l’utilisateur :
 
+
  ![Capture d’écran 2023-06-03 125259](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/4b73e256-b9a4-4b1c-866f-91aa6fb5c295)
+ 
+ 
+ 
+ 
+ 
 
 1.1.3	Diagramme de cas d’utilisation pour gérer les comptes d’utilisateurs :
+
+
+
+
+
 
  ![Capture d’écran 2023-06-03 125622](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/321f55a3-50b9-4032-b610-229e09c5952d)
 
@@ -84,6 +102,11 @@ Identification des acteurs :
 
 
 1.1.4	Diagramme de cas d’utilisation pour gérer les profils :
+
+
+
+
+
  
 ![Capture d’écran 2023-06-03 125814](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/c5887f83-5720-4bf7-932a-193e65f004dd)
 
@@ -115,6 +138,11 @@ Identification des acteurs :
 
 
 
+
+
+
+
+
 ![Capture d’écran 2023-06-03 130305](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/bf237de7-1eeb-4017-812f-50216c8b1201)
 
 
@@ -140,6 +168,10 @@ Identification des acteurs :
 
 
 2	Product backlog :
+
+
+
+
 
  
 ![Capture d’écran 2023-06-03 130950](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/e1fbec6a-c85e-439e-adc6-0654ac04faef)
@@ -178,6 +210,8 @@ Identification des acteurs :
 
 
 3	Sprint :
+
+
      
    Dans la méthode Agile (Scrum), les sprints sont des itérations de développement d'une durée fixe au cours desquelles l'équipe de développement produit un travail potentiellement livrable.  Voici les principales étapes d'un sprint dans la méthode Scrum :
 •	Planification du sprint : L'équipe Scrum se réunit pour définir les objectifs et le périmètre du sprint. Ils choisissent les éléments du backlog (liste des fonctionnalités à développer) à inclure dans le sprint et décomposent ces éléments en tâches plus petites.
@@ -191,6 +225,7 @@ Identification des acteurs :
  
 
 3.2	Backlog des sprints :
+
 
 
 ![Backlog (user story)](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/83ab8b7d-8366-47c6-9f84-e20dc01d5ff8)
@@ -481,7 +516,10 @@ Réunion 4 :
 
 
 4	Interfaces de l’application mobile « Smart Trash » :
+
 L'interface de l'application est simple à comprendre et facile à utiliser.
+
+![interface 1](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/2ba30727-288d-4b44-9e13-bbb0926c4d4b)
 
 
 
