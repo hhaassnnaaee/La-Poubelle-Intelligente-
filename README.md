@@ -358,6 +358,10 @@ Réunion 2 :
 
 Réunion 3 :
 
+
+
+https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/issues/1#issuecomment-1574882378
+
  
 
 3.2.4	Sprint 4 :
