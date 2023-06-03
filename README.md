@@ -523,7 +523,7 @@ Réunion 4 :
 
 
 
-4	Interfaces de l’application mobile « Smart Trash » conçu dans Figma:
+4	Interfaces de l’application mobile « Smart Trash » conçue dans Figma:
 
 L'interface de l'application est simple à comprendre et facile à utiliser.
 
