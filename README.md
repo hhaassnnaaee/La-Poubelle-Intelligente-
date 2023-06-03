@@ -295,6 +295,18 @@ Réunion 2 :
 
 Réunion 3 :
 
+
+
+![S2 R3](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/21cb20b4-af2c-400b-916c-e724c8bd6996)
+
+
+
+
+
+
+
+
+
  
 
 
