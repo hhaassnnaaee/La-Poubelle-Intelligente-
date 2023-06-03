@@ -392,6 +392,12 @@ Réunion 1 :
 
 Réunion 2 :
  
+ ![S4 R2](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/1f6a9ac6-1aef-4511-9500-7e64902df2bb)
+ 
+ 
+ 
+ 
+ 
 
 
 Réunion 3 :
