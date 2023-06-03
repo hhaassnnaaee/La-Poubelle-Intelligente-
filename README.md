@@ -60,7 +60,7 @@ Identification des acteurs :
 1.1.1	.  Diagramme de cas d’utilisation général :
 
 
-
+![Capture d’écran 2023-06-03 122055](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/3f1db2ec-b4c7-4add-a002-64c08b407873)
 
 
 
