@@ -237,7 +237,14 @@ Identification des acteurs :
 •	Mise à jour du backlog : Sur la base des commentaires reçus et des nouvelles priorités, le Product Owner met à jour le backlog, ajoutant de nouvelles fonctionnalités ou modifiant les priorités existantes.
 •	Planification du sprint suivant : L'équipe Scrum se réunit à nouveau pour planifier le prochain sprint. Ils sélectionnent les éléments du backlog pour le prochain sprint, définissent les objectifs et les tâches associées.
         Ces étapes se répètent tout au long du projet, permettant à l'équipe de développement de fournir des fonctionnalités incrémentielles à chaque sprint et d'obtenir des commentaires réguliers des parties prenantes pour s'assurer que le produit évolue dans la bonne direction.
+        
+        
 3.1	Liste des sprints :
+ 
+ 
+ 
+ 
+ 
  
 
 3.2	Backlog des sprints :
