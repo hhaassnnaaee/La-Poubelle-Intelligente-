@@ -495,7 +495,10 @@ L'interface de l'application est simple à comprendre et facile à utiliser.
 
 
 
-      Cette première interface représente la page d’authentification qui est constituée de deux cases pour remplir les données correspondantes aux emails et aux mots de passe. Cette phase n’est validée que lorsque l’utilisateur est bien inscrit en cliquant sur le bouton « se connecter ».
+      Cette première interface représente la page d’authentification qui est constituée
+ de deux cases pour remplir les données correspondantes aux emails et aux mots de passe. 
+ Cette phase n’est validée que lorsque l’utilisateur est bien inscrit en cliquant
+ sur le bouton « se connecter ».
 
 
 
@@ -521,7 +524,11 @@ L'interface de l'application est simple à comprendre et facile à utiliser.
 
 
 
-        Cette deuxième interface montre que l’application permet aux utilisateurs, après la phase d’authentification, d'accéder aux statistiques de remplissage de la poubelle, localiser les poubelles, planifier les tournées de collecte, ainsi que l’application permet de donner à l’utilisateur des conseils sur le recyclage et la gestion des déchets.
+        Cette deuxième interface montre que l’application permet aux utilisateurs, 
+        après la phase d’authentification, d'accéder aux statistiques de remplissage
+        de la poubelle, localiser les poubelles, planifier les tournées de collecte,
+        ainsi que l’application permet de donner à l’utilisateur des conseils 
+        sur le recyclage et la gestion des déchets.
 
 
 
@@ -532,10 +539,27 @@ L'interface de l'application est simple à comprendre et facile à utiliser.
 
 Conclusion Générale :
 
-       En conclusion, l'application de la méthode Scrum à un projet de développement d'une poubelle intelligente présente de nombreux avantages. La méthode Scrum permet une approche itérative et incrémentielle du développement, ce qui est particulièrement adapté pour un projet complexe et évolutif tel qu'une poubelle intelligente.
-       Grâce à ce projet nous avons bien compris le déroulement et le processus des projets avant leur finalisation. Ainsi, nous avons trouvé que la méthode scrum est le bon choix car elle permet d'identifier les problèmes du projet très rapidement et d’adapter les processus en conséquence. En plus, grâce à la méthode Scrum, les projets sont divisés en itérations appelées "sprints". Chaque sprint est généralement de 1 à 4 semaines et chaque sprint a un objectif spécifique. Cela permet aux équipes de planifier de manière agile, de s'adapter rapidement aux changements et de maintenir l'orientation sur les objectifs à court terme.
-       En outre, la poubelle intelligente connectée à une application mobile ouvre de nombreuses perspectives d'amélioration de la gestion des déchets, de sensibilisation environnementale et d'engagement des utilisateurs. Avec l'évolution de la technologie et l'innovation continue, nous pouvons nous attendre à de nouvelles fonctionnalités et à une intégration plus poussée de ces systèmes dans notre vie quotidienne.
-       Enfin, grâce à ce projet, on a achevé le travail en groupe pour rassembler des idées diverses, d'apprendre des autres, de partager la charge de travail et de favoriser l'innovation. Cependant, cela nécessite également un effort de collaboration et de communication pour surmonter les défis et atteindre les objectifs communs.
+             En conclusion, l'application de la méthode Scrum à un projet de développement d'une poubelle
+       intelligente présente de nombreux avantages. La méthode Scrum permet une approche itérative 
+       et incrémentielle du développement, ce qui est particulièrement adapté pour un projet
+       complexe et évolutif tel qu'une poubelle intelligente.
+       Grâce à ce projet nous avons bien compris le déroulement et le processus des projets
+       avant leur finalisation. Ainsi, nous avons trouvé que la méthode scrum est le bon choix
+       car elle permet d'identifier les problèmes du projet très rapidement et d’adapter les 
+       processus en conséquence. En plus, grâce à la méthode Scrum, les projets sont divisés 
+       en itérations appelées "sprints". Chaque sprint est généralement de 1 à 4 semaines
+       et chaque sprint a un objectif spécifique. Cela permet aux équipes de planifier
+       de manière agile, de s'adapter rapidement aux changements et de maintenir l'orientation
+       sur les objectifs à court terme.
+       En outre, la poubelle intelligente connectée à une application mobile ouvre de nombreuses
+       perspectives d'amélioration de la gestion des déchets, de sensibilisation environnementale 
+       et d'engagement des utilisateurs. Avec l'évolution de la technologie et l'innovation continue,
+       nous pouvons nous attendre à de nouvelles fonctionnalités et à une intégration plus poussée 
+       de ces systèmes dans notre vie quotidienne.
+       Enfin, grâce à ce projet, on a achevé le travail en groupe pour rassembler des idées diverses, 
+       d'apprendre des autres, de partager la charge de travail et de favoriser l'innovation. Cependant,
+       cela nécessite également un effort de collaboration et de communication pour surmonter les défis
+       et atteindre les objectifs communs.
 
 
 
@@ -546,7 +570,8 @@ Conclusion Générale :
 
 
 
-Ce travail a été présenté par les différents membres de notre équipe ; si joint les membres du groupe avec les rôles accordés à chacun:
+Ce travail a été présenté par les différents membres de notre équipe ; 
+si joint les membres du groupe avec les rôles accordés à chacun:
 
  
 
