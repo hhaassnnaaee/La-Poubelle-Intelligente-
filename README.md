@@ -1,7 +1,7 @@
 Poubelle Intelligente 
 
 
-![](C:\Users\Admin\OneDrive\Bureau\screenshots)
+![Capture d’écran 2023-06-03 121930](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/ff501a61-14b0-4248-bc51-47a6c1110821)
 
 
 
