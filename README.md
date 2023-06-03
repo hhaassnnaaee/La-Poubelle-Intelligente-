@@ -366,6 +366,16 @@ https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/issues/1#issuecomment-
 
 3.2.4	Sprint 4 :
  
+ 
+![Sprint 4](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/4d4501a3-329b-4998-b9a2-0608eb060d0e) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 Réunion 1 :
