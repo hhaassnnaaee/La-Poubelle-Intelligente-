@@ -212,6 +212,14 @@ Identification des acteurs :
 •	On a commencé par une réunion de planification pour préciser le product backlog, et les résultats obtenus sont les suivants :
 
  
+![Backlog (user story)](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/83ab8b7d-8366-47c6-9f84-e20dc01d5ff8)
+
+
+
+
+
+
+
 
 
 
@@ -235,8 +243,6 @@ Identification des acteurs :
 3.2	Backlog des sprints :
 
 
-
-![Backlog (user story)](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/83ab8b7d-8366-47c6-9f84-e20dc01d5ff8)
 
 
 
