@@ -142,6 +142,15 @@ Identification des acteurs :
 2	Product backlog :
 
  
+![Capture d’écran 2023-06-03 130950](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/e1fbec6a-c85e-439e-adc6-0654ac04faef)
+
+
+
+
+
+
+
+
 
 
 
