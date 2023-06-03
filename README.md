@@ -96,7 +96,7 @@ Identification des acteurs :
 
 
 1.2	Diagramme de classe :
-
+![Capture d’écran 2023-06-03 130012](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/e00fa90d-f6e0-4569-a186-f3f2c193886e)
           
 1.3	Diagramme de séquence :
  
