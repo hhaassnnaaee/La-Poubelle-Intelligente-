@@ -380,6 +380,14 @@ https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/issues/1#issuecomment-
 
 Réunion 1 :
 
+![S4 R1](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/8cd61d86-e185-451d-b160-1cd735e936d7)
+
+
+
+
+
+
+
  
 
 Réunion 2 :
