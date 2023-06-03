@@ -534,7 +534,10 @@ L'interface de l'application est simple à comprendre et facile à utiliser.
 
 
 
-      Cette première interface représente la page d’authentification qui est constituée de deux cases pour remplir les données correspondantes aux emails et aux mots de passe. Cette phase n’est validée que lorsque l’utilisateur est bien inscrit en cliquant sur le bouton « se connecter ».
+      Cette première interface représente la page d’authentification qui est constituée
+      de deux cases pour remplir les données correspondantes aux emails et aux mots de passe. 
+      Cette phase n’est validée que lorsque l’utilisateur est bien inscrit en cliquant
+      sur le bouton « se connecter ».
 
 
 
@@ -610,6 +613,36 @@ Ce travail a été présenté par les différents membres de notre équipe ;
 si joint les membres du groupe avec les rôles accordés à chacun:
 
  
+ 
+ 
+ 
+
+![team](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/f16791b4-19c9-401d-8ecd-ea01f5963a85)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
