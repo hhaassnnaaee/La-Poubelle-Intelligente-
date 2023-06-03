@@ -431,7 +431,11 @@ Réunion 3 :
 
 
 
-https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/issues/1#issuecomment-1574882378
+![S3 R3](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/f9e8e79d-f8ca-4512-a231-970db895ccf9)
+
+
+
+
 
  
 
