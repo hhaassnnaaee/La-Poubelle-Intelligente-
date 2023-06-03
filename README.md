@@ -205,6 +205,10 @@ Identification des acteurs :
 
 3.2.1	Sprint 1 :
  
+![Sprint 1](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/115e1061-25a0-4a08-a922-1277dd3df5bd)
+
+
+
 
 
 
