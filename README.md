@@ -85,7 +85,7 @@ Identification des acteurs :
 
 1.1.4	Diagramme de cas d’utilisation pour gérer les profils :
  
-
+![Capture d’écran 2023-06-03 125814](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/c5887f83-5720-4bf7-932a-193e65f004dd)
 
 
 
