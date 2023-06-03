@@ -451,6 +451,9 @@ Réunion 3 :
 
 Réunion 4 :
 
+ ![S5 R4](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/a6571ec5-77b5-4268-be4f-ba667755a266)
+ 
+ 
  
 
 
