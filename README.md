@@ -74,7 +74,7 @@ Identification des acteurs :
 
 1.1.2	Diagramme de cas d’utilisation pour l’utilisateur :
 
- 
+ ![Capture d’écran 2023-06-03 125259](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/4b73e256-b9a4-4b1c-866f-91aa6fb5c295)
 
 1.1.3	Diagramme de cas d’utilisation pour gérer les comptes d’utilisateurs :
 
