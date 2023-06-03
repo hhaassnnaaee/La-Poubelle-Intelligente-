@@ -433,7 +433,7 @@ Réunion 1 :
 Réunion 2 :
  
 
-
+![S5 R2](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/3ae27c09-5ee0-46ba-b213-41e7407fdabe)
 
 
 
