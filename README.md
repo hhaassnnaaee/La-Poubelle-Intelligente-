@@ -192,6 +192,17 @@ Identification des acteurs :
 
 3.2	Backlog des sprints :
 
+
+![Backlog (user story)](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/83ab8b7d-8366-47c6-9f84-e20dc01d5ff8)
+
+
+
+
+
+
+
+
+
 3.2.1	Sprint 1 :
  
 
