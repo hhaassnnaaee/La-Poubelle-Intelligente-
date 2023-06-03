@@ -114,7 +114,26 @@ Identification des acteurs :
 1.3	Diagramme de séquence :
 
 
- 
+
+![Capture d’écran 2023-06-03 130305](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/bf237de7-1eeb-4017-812f-50216c8b1201)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
