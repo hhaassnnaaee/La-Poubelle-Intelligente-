@@ -402,6 +402,12 @@ Réunion 2 :
 
 Réunion 3 :
 
+
+
+
+
+
+![S4 R3](https://github.com/hhaassnnaaee/La-Poubelle-Intelligente-/assets/130522848/43a2cb1b-c7ee-4656-bd38-7e274efda462)
  
 
 3.2.5	Sprint 5 :
